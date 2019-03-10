@@ -7,9 +7,10 @@
     tools:context=".MainActivity">
 
 
+
+    //skereeeee
+
     <CalendarView
-
-
 
         android:id="@+id/calendarView"
         android:layout_width="wrap_content"
